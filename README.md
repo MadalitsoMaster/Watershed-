@@ -58,7 +58,7 @@ These organizations can utilize this code to:
 MIT License
 
 ## Author
-Madalitso Master an Environmental Data Analyst
+Madalitso Master (an Environmental Data Analyst)
 
 ## Contact
 For questions or collaborations, please open an issue or contact via GitHub.
